@@ -9,6 +9,6 @@
 | **Solar PuTTY** | [Download](https://www.solarwinds.com/free-tools/solar-putty) |
 | **VMware Workstation Pro** | [Download](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) |
 | **WinSCP** | [Download](https://winscp.net/eng/download.php) |
-| **Winaero Tweaker** | [Download](https://winaero.com/winaero-tweaker/) |
+| **Winhance** | [Download](https://github.com/memstechtips/Winhance/releases/latest/download/Winhance.Installer.exe) |
 | **Notion** | [Download](https://www.notion.so/desktop) |
 | **LM Studio** | [Download](https://lmstudio.ai/) |
