@@ -3,6 +3,7 @@
 | Application | Téléchargement |
 |------------|----------------|
 | **Brave** | [Download](https://brave.com/download/) |
+| **Adguard** | [Download](https://adguard.com/fr/download.html?os=windows) |
 | **VS Code** | [Download](https://code.visualstudio.com/download) |
 | **Visual Studio** | [Download](https://visualstudio.microsoft.com/downloads/) |
 | **Process Hacker 2** | [Download](https://processhacker.sourceforge.io/downloads.php) |
